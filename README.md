@@ -95,7 +95,7 @@ No user research, usability results, or product impact is claimed yet.
 1. Install Python 3 and Jupyter.
 2. Install dependencies: `pip install pandas requests matplotlib python-dotenv ipykernel`.
 3. Obtain a NYT developer API key with access to the Most Popular API.
-4. Create a local `.env` file containing `NYT_API_KEY=your_key_here` and **do not commit it**.
+4. Create a local `.env` file containing Your API KEY **do not commit it**.
 5. Open the notebook in Jupyter or VS Code and run the cells in order.
 
 **Reproducibility note:** The current notebook imports a local `NYTimes_main.py` module. Before sharing publicly, replace that dependency with a documented API request, or include a safe, key-free module. The numerical findings above describe the **saved notebook outputs**, not necessarily results of a new request.
