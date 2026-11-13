@@ -1,4 +1,4 @@
-# Editorial Topic Discovery — A Product Management Case Study
+# Editorial Topic Discovery — Case Study
 
 **An independent analysis of New York Times articles appearing in the Facebook most-shared ranking during the 2026 U.S. midterm election week.**
 
